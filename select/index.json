@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Starry night",
+  "base_artist": "稀羽すう",
+  "createdAt": "2025-12-03T10:27:21.473942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starry Night",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/01_Starry_Night_Laika.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's a Very Starry Night",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/02_It's_a_Very_Starry_Night_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starry Night",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/03_Starry_Night_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Starry Night in Apollo Bay",
+      "artist": "Rini",
+      "has_synced": true,
+      "path": "select/04_A_Starry_Night_in_Apollo_Bay_Rini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vincent (Starry Starry Night)",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/05_Vincent_(Starry_Starry_Night)_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starry Night - Original Mix",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/06_Starry_Night_-_Original_Mix_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Starry Night (Interlude)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/07_Black_Starry_Night_(Interlude)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vincent (Starry, Starry Night)",
+      "artist": "Josh Groban",
+      "has_synced": false,
+      "path": "select/08_Vincent_(Starry,_Starry_Night)_Josh_Groban.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vincent (Starry, Starry Night)",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/09_Vincent_(Starry,_Starry_Night)_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vincent - Starry, Starry Night",
+      "artist": "Nana Mouskouri",
+      "has_synced": false,
+      "path": "select/10_Vincent_-_Starry,_Starry_Night_Nana_Mouskouri.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vincent (Starry Night)",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/11_Vincent_(Starry_Night)_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vincent (Starry Night)",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/12_Vincent_(Starry_Night)_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starry night",
+      "artist": "稀羽すう",
+      "has_synced": false,
+      "path": "select/pl_01_Starry_night_稀羽すう.txt"
+    }
+  ]
+}
